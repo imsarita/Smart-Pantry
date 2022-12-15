@@ -1,2 +1,2 @@
 # Smart-Pantry
-The Arduino code is used to determine weight from the weight detector
+The Arduino code will determine weight from the weight detector
